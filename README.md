@@ -81,7 +81,7 @@ Welcome to the official repository documenting my work during the **Machine Lear
 | 45  | TIER-SS-OpenCV-DisplayingImages               | [View Repository](https://github.com/1stagamvir/TIET-SS-OpenCV-DisplayingImage) |
 | 46  | TIET-SS-QRCodeGeneratorforImages              | [View Repository](https://github.com/1stagamvir/TIET-SS-QRCodeGeneratorforImages) |
 | 47  | TIET-SS-PasswordBruteForce                    | [View Repository](https://github.com/1stagamvir/TIET-SS-PasswordBruteForce) |
-| 48  | TIET-SS-2025-Portfolio                        | [View Repository](https://github.com/1stagamvir/TIET-SS-2025-Portfolio) |
+| 48  | TIET-SS-Portfolio                             | [View Repository](https://github.com/1stagamvir/TIET-SS-Portfolio) |
 | 49  | TIET-SS-Kaggle-Titanic-Competition            | [View Repository](https://github.com/1stagamvir/TIET-SS-Kaggle-Titanic-Competition) |
 | 50  | TIET-SS-KnowledgeGraphforRAG                  | [View Repository](https://github.com/1stagamvir/TIET-SS-KnowledgeGraphforRAG) |
 
