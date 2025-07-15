@@ -1,6 +1,5 @@
 # TIET-SummerSchool-2025:
 
-![AI Header Image](https://img.freepik.com/free-vector/ai-technology-microchip-background_1017-25286.jpg)  
 *Summer School on Artificial Intelligence & Machine Learning – Project Showcase*
 
 ---
@@ -16,10 +15,10 @@ Welcome to my official repository for the **Thapar Summer School (TSS) 2025**, a
 ## :calendar: Program Details
 | Detail               | Information                                      |
 |----------------------|--------------------------------------------------|
-| **Duration**         | 9th June to 18th July 2025 (6 weeks)            |
-| **Organizer**        | Thapar Institute of Engineering & Technology    |
-| **Coordinators**     | Dr. Prashant Singh Rana & Dr. Neeraj Kumar      |
-| **Focus Areas**      | AI, ML, DL, NLP, Computer Vision, Generative AI |
+| **Duration**         | 9th June to 18th July 2025 (6 weeks)             |
+| **Organizer**        | Thapar Institute of Engineering & Technology     |
+| **Coordinators**     | Dr. Prashant Singh Rana                          | 
+| **Focus Areas**      | AI, ML, DL, NLP, Computer Vision, Generative AI  |
 
 ---
 
