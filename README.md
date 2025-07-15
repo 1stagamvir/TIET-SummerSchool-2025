@@ -99,7 +99,7 @@ Each project repository contains:
 
 ## 🧑‍💻 Author
 
-**Agamvir Singh**  
+          **Agamvir Singh**  
 Computer Science and Engineering, Thapar Institute of Engineering and Technology
 
 ---
