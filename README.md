@@ -41,7 +41,7 @@ Welcome to the official repository documenting my work during the **Machine Lear
 | 5   | TIET-SS-MiniProject-5-TextFileConversion      | [View Repository](https://github.com/1stagamvir/TIET-SS-MiniProject-5-TextFIleConversion) |
 | 6   | TIET-SS-MiniProject-6-AdvancePython           | [View Repository](https://github.com/1stagamvir/TIET-SS-MiniProject-6-AdvancePython) |
 | 7   | TIET-SS-MiniProject-7-MarksAdding             | [View Repository](https://github.com/1stagamvir/TIET-SS-Mini-Project-7-Marks-Adding) |
-| 8   | TIET-SS-MiniProject-8-R_Programming           | [View Repository]((https://github.com/1stagamvir/TIET-SS-MiniProject-8-R-Programming)) |
+| 8   | TIET-SS-MiniProject-8-R_Programming           | [View Repository](https://github.com/1stagamvir/TIET-SS-MiniProject-8-R-Programming) |
 | 9   | TIET-SS-MiniProject-9-EDA                     | [View Repository](https://github.com/1stagamvir/TIET-SS-MiniProject-9-EDA) |
 | 10  | TIET-SS-MiniProject-10-ImagetoAudio           | [View Repository](https://github.com/1stagamvir/TIET-SS-MiniProject-10-Image-to-Audio) |
 | 11  | TIET-SS-MiniProject-11-WebCrawler             | [View Repository](https://github.com/1stagamvir/TIET-SS-MiniProject-11-WebCrawler) |
